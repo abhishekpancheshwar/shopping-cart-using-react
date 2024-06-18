@@ -16,4 +16,5 @@ Fetch API (for making HTTP requests to a backend API)
 
 
 site demo: - 
-<img src="C:\Users\abhis\OneDrive\Pictures\Screenshots\Screenshot (22).png">
+
+![image](https://github.com/abhishekpancheshwar/shopping-cart-using-react/assets/157621073/ec971a41-e76e-49cd-be48-dc5f61c6b403)
