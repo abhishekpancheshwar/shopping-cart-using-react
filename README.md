@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+Product Listing: Displays a list of available products with their details such as name, price, and image.
+Add to Cart: Users can add products to their cart by clicking the "Add to Cart" button.
+Cart Management: Users can view their cart, adjust item quantities, and remove items from the cart.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+
+React
+React Router (for client-side routing)
+Context API or Redux (for state management)
+Tailwind-CSS or a CSS-in-JS solution like Styled Components or Emotion (for styling)
+Fetch API (for making HTTP requests to a backend API)
